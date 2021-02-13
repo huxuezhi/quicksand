@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/lerna",
-  "npmClient": "yarn",
+  "npmClient": "npm",
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.0"
+  "version": "0.0.1"
 }
