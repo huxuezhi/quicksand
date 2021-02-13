@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json.schemastore.org/eslintrc",
+  "extends": [
+    "airbnb-typescript",
+    "airbnb/hooks"
+  ],
+  "rules": {}
+}
