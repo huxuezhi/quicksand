@@ -6,7 +6,7 @@ module.exports = {
   // 使用单引号代替双引号
   singleQuote: true,
   // 超过最大值换行
-  printWidth: 150,
+  printWidth: 120,
   // 句尾添加分号
   semi: true,
   // 尽可能使用逗号尾随
