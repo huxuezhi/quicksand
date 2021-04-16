@@ -1,6 +1,6 @@
 {
   "name": "@quicksand/coder",
-  "version": "0.0.1-alpha.3",
+  "version": "0.0.1-alpha.7",
   "description": "quicksand项目代码规范",
   "scripts": {},
   "files": [
@@ -23,19 +23,20 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.15.0",
-    "eslint": "^7.20.0",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "eslint": "^7.24.0",
     "eslint-config-airbnb-typescript": "^12.3.1",
-    "eslint-config-prettier": "^7.2.0",
+    "eslint-config-prettier": "^8.2.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-prettier": "^3.3.1",
-    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.23.2",
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "^2.2.1",
     "tsconfigs": "^5.0.0"
   },
   "devDependencies": {
-    "typescript": "^4.1.5"
+    "typescript": "^4.2.4"
   }
 }
